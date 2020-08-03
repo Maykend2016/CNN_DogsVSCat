@@ -8,10 +8,10 @@ Convolutional Neural Network(CNN)
 
 Antes de iniciarmos com nossa análise, será necessário efetuar o download:
 
-- Python 3.7
-- Anaconda
-- Jupyter Notebook
-- Efetuar download do arquivo no Kaggle: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
+. Python 3.7
+. Anaconda
+. Jupyter Notebook
+. Efetuar download do arquivo no Kaggle: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
 
 **Como instalar em seu computador?**
 
