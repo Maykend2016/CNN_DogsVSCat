@@ -1,6 +1,4 @@
-# CNN_DogsVSCat
-
-Convolutional Neural Network(CNN)
+# Convolutional Neural Network(CNN)
 
 <hr>
 
